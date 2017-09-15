@@ -42,10 +42,10 @@ local gain_table = {
     eq7 = 0,
     eq8 = 0,
     eq9 = 0,
-    eq10 = 0,
-    eq11 = 0,
-    eq12 = 0,
-    eq13 = 0,
+    eq10 = 7,
+    eq11 = 7
+    eq12 = 7,
+    eq13 = 7,
     eq14 = 0
 }
 
